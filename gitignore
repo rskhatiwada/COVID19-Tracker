@@ -1,0 +1,6 @@
+
+# Ignore Python bytecode and notebook checkpoints
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.csv
